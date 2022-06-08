@@ -65,7 +65,8 @@
 
 @use "global" as *;
 .body {
-    background-color: $pryColor;
+    background-color: $terColor;
+   
 }
 
 // navbar styling
@@ -114,4 +115,11 @@
     text-align: center;
     @include h3fonts;
     padding-bottom: 10px;
+}
+.download {
+    color: white;
+}
+.button {
+    background-color: black;
+    color: white;
 }

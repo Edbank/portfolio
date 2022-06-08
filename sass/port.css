@@ -1,5 +1,5 @@
 .body {
-  background-color: #FFBBBB;
+  background-color: blue;
 }
 
 .header {
@@ -64,5 +64,14 @@
   font-weight: 400;
   font-size: 37.9px;
   padding-bottom: 10px;
+}
+
+.download {
+  color: white;
+}
+
+.button {
+  background-color: black;
+  color: white;
 }
 /*# sourceMappingURL=port.css.map */
